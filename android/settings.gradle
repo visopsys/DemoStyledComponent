@@ -1,0 +1,3 @@
+rootProject.name = 'DemoStyledComponent'
+
+include ':app'
